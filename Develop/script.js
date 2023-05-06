@@ -1,7 +1,7 @@
 var passwordLength = "";
-var specialCharacters = "`, ~, !, @, #, $, %, ^, &, *, (, ), _, +, -, =, [, ], \, {, }, |, \, <, >, ?";
-var lowerCase = "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z";
-var upperCase = "A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z";
+var specialCharacters = "`~!@#$%^&*()_+-=[]\{}|;':\,./<>?".split('');
+var lowerCase = "abcdefghijklmnopqrstuvwxyz".split('');
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split('');
 var numeric = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 var password = "";
 optionPass = [];
@@ -21,10 +21,7 @@ function writePassword() {
   passwordText.value = password;
 } 
 
-// function to prompt user for password options. 
-// received assistance from tutor with concat and promt on w3schools
-// Got function line 28 from instructor.
-// removed else/concat and got assistance from student Emily, however code still did not generate. 
+// function to prompt user for password options 
 function getPasswordOptions() {
   optionPass = [];
   
@@ -63,11 +60,9 @@ function getPasswordOptions() {
 
 
 // function for getting a random element from an array
-// Got function line 57 from instructor, however kept getting undefined due to the (arr) added so I took it out. 
 function getRandom(){
+  console.log(optionPass)
   var password = "";
-  passwordLength = "";
-  optionPass = [];
  
   for(var i = 0; i < passwordLength; i++) {
     var index = Math.floor(Math.random() * optionPass.length);
@@ -78,9 +73,7 @@ function getRandom(){
 
 }
 
-// Function to generate password with user imput
-// Got function line 71 from instructor. 
-// 
+// Function to generate password with user input
 function generatePassword() {
   getPasswordOptions();
   var password = getRandom();
