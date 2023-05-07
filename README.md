@@ -20,7 +20,7 @@ Create strong password that provides greater security.
 * THEN the password is either displayed in an alert or written to the page
 
 ### Challenges ###
-The assignment was a strugle for me, however I was able to succefully generate the password after receiving assistance from my tutor, TA and slack learnning Assistant as well support from student Emily. The code is not perfect since it does still generates undefined with less than 8 characters. 
+The assignment was a struggle for me, however I was able to successfully generate the password after receiving assistance from my tutor, TA and slack learning Assistant as well support from student Emily. The code is not perfect since it does still generates undefined with less than 8 characters. 
 
 #### Password GeneratorURL ####
 https://raquel-t.github.io/Password-Generator/
