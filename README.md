@@ -19,6 +19,15 @@ Create strong password that provides greater security.
 * WHEN the password is generated
 * THEN the password is either displayed in an alert or written to the page
 
+### Challenges ###
+The assignment was a strugle for me, however I was able to succefully generate the password after receiving assistance from my tutor, TA and slack learnning Assistant as well support from student Emily. The code is not perfect since it does still generates undefined with less than 8 characters. 
+
+#### Password GeneratorURL ####
+https://raquel-t.github.io/Password-Generator/
 
 
+##### Screenshots #####
 
+![alt text]Screenshot 2023-05-06 161410 - PG project 1.jpg
+![alt text]Screenshot 2023-05-06 161610 - PG project pic 2.jpg
+![alt text]Screenshot 2023-05-06 161706 PG project pic3.jpg
