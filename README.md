@@ -28,6 +28,7 @@ https://raquel-t.github.io/Password-Generator/
 
 ##### Screenshots #####
 
-![image]C:\Users\raque\bootcamp-homework\Password-Generator\Password-Generator\Develop\images\PG pic 1.jpg
-![image]C:\Users\raque\bootcamp-homework\Password-Generator\Password-Generator\Develop\images\PG pic 2.jpg
-![image]C:\Users\raque\bootcamp-homework\Password-Generator\Password-Generator\Develop\images\PG pic3.jpg
+![PG pic 1](https://user-images.githubusercontent.com/130006996/236651281-de73dc03-9d20-4361-997d-ab240d8a74a7.jpg)
+![PG pic 2](https://user-images.githubusercontent.com/130006996/236651289-9e3f88c8-d801-49f4-8d9b-e31879ddc46c.jpg)
+![PG pic3](https://user-images.githubusercontent.com/130006996/236651292-37f746b1-a4dd-4d7e-860e-93d1a338528f.jpg)
+
