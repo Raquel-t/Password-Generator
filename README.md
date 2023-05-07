@@ -28,6 +28,6 @@ https://raquel-t.github.io/Password-Generator/
 
 ##### Screenshots #####
 
-![alt text]Screenshot 2023-05-06 161410 - PG project 1.jpg
-![alt text]Screenshot 2023-05-06 161610 - PG project pic 2.jpg
-![alt text]Screenshot 2023-05-06 161706 PG project pic3.jpg
+![image]C:\Users\raque\bootcamp-homework\Password-Generator\Password-Generator\Develop\images\PG pic 1.jpg
+![image]C:\Users\raque\bootcamp-homework\Password-Generator\Password-Generator\Develop\images\PG pic 2.jpg
+![image]C:\Users\raque\bootcamp-homework\Password-Generator\Password-Generator\Develop\images\PG pic3.jpg
