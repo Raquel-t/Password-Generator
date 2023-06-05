@@ -25,6 +25,10 @@ The assignment was a struggle for me, however I was able to successfully generat
 #### Password GeneratorURL ####
 https://raquel-t.github.io/Password-Generator/
 
+## Demo ##
+
+![Password Generator Demo](https://github.com/Raquel-t/Password-Generator/assets/130006996/d21c8035-9d06-46b1-9951-f1548c334100)
+
 
 ##### Screenshots #####
 
