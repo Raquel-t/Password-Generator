@@ -25,11 +25,6 @@ The assignment was a struggle for me, however I was able to successfully generat
 #### Password GeneratorURL ####
 https://raquel-t.github.io/Password-Generator/
 
-## Demo ##
-
-![Desktop Recording - June 4, 2023 8_13 PM](https://github.com/Raquel-t/Password-Generator/assets/130006996/a675ef3b-c65a-4d93-8ba1-002860678b67)
-
-
 
 ##### Screenshots #####
 
