@@ -34,3 +34,6 @@ https://raquel-t.github.io/Password-Generator/
 
 ![BA Demo - 1685929689459](https://github.com/Raquel-t/Password-Generator/assets/130006996/b64b850a-d8b3-4453-b9ee-8027e05758fd)
 
+![BA Demo - 1685929689459](https://github.com/Raquel-t/Password-Generator/assets/130006996/a1541332-45c4-4906-bae2-718ff6967226)
+
+
