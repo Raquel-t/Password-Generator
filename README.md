@@ -33,7 +33,7 @@ https://raquel-t.github.io/Password-Generator/
 ![PG pic3](https://user-images.githubusercontent.com/130006996/236651292-37f746b1-a4dd-4d7e-860e-93d1a338528f.jpg)
 
 
-![Untitled video (5)](https://github.com/Raquel-t/Password-Generator/assets/130006996/17ea651a-e6ff-48cf-a2d4-216911b3783b)
+ ![Untitled video (5)](https://github.com/Raquel-t/Password-Generator/assets/130006996/17ea651a-e6ff-48cf-a2d4-216911b3783b)
 
 
 
