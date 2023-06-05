@@ -27,7 +27,8 @@ https://raquel-t.github.io/Password-Generator/
 
 ## Demo ##
 
-![Password Generator Demo](https://github.com/Raquel-t/Password-Generator/assets/130006996/d21c8035-9d06-46b1-9951-f1548c334100)
+![Desktop Recording - June 4, 2023 8_13 PM](https://github.com/Raquel-t/Password-Generator/assets/130006996/a675ef3b-c65a-4d93-8ba1-002860678b67)
+
 
 
 ##### Screenshots #####
